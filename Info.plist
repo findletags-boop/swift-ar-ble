@@ -1,0 +1,11 @@
+<key>NSCameraUsageDescription</key>
+<string>Used to show AR view for locating your tracker</string>
+
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>Used to locate your BLE tracker</string>
+
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>Used to locate your BLE tracker</string>
+
+<key>NSMotionUsageDescription</key>
+<string>Used to track phone rotation for direction finding</string>
